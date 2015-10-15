@@ -1,79 +1,79 @@
 {
-  "name" : {
-    "first" : "Erica",
-    "last"  : "Arenas"
-  },
-  "mail" : "erica.arenas.rodriguez@gmail.com",
-  "experience" : [
-    {
-      "Period": "2015-Now",
-      "Entrepise" : "ACEX",
-      "Role" : "Web Designer"
+    "name": {
+        "first": "Erica",
+        "last": "Arenas"
     },
-    {
-      "Period": "2012-2014",
-      "Entrepise" : "CEA",
-      "Role" : "Research Engineer"
-    },
+    "mail": "erica.arenas.rodriguez@gmail.com",
+    "experience": [
         {
-      "Period": "2011-2012",
-      "Entrepise" : "STMicroelectronics",
-      "Role" : "Research Student"
-    },
-  ],
-  "education": {
-    "Telecommunications engineering",
-    "Web design and web applications development intensive course",
-    "Web design master"
-    },
-  "languages" : [ 
-    {
-      "language" : "Spanish",
-      "level" : "mother tongue"
-    },
-    {
-      "language" : "English",
-      "level" : "B2"
-    },  
-    {
-      "language" : "French",
-      "level" : "B1"
-    },
-    {
-      "language" : "German",
-      "level" : "A1"
+            "Period": "2015-Now",
+            "Entrepise": "ACEX",
+            "Role": "Web Designer"
+        },
+        {
+            "Period": "2012-2014",
+            "Entrepise": "CEA",
+            "Role": "Research Engineer"
+        },
+        {
+            "Period": "2011-2012",
+            "Entrepise": "STMicroelectronics",
+            "Role": "Research Student"
+        }
+    ],
+    "education": [
+        "Telecommunications engineering",
+        "Web design and web applications development intensive course",
+        "Web design master"
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "level": "mother tongue"
+        },
+        {
+            "language": "English",
+            "level": "B2"
+        },
+        {
+            "language": "French",
+            "level": "B1"
+        },
+        {
+            "language": "German",
+            "level": "A1"
+        }
+    ],
+    "skills": {
+        "Programming languages": [
+            "Matlab",
+            "C/C++",
+            "VHDL",
+            "MIPS"
+        ],
+        "Web Design": [
+            "HTML/HTML5",
+            "CSS/CSS3",
+            "Js/JQuery",
+            "PHP",
+            "MySQL",
+            "Ruby on Rails",
+            "JSON"
+        ],
+        "Operative Systems": [
+            "Windows",
+            "IOS",
+            "Linux"
+        ],
+        "Repositories": [
+            "Github",
+            "Subversion"
+        ],
+        "Development Environments": [
+            "Eclipse",
+            "DreamWeaver",
+            "Matlab",
+            "Bash"
+        ]
     }
-  ],
-  "skills": [
-    "Programming languages" : {
-      "Matlab",
-      "C/C++",
-      "VHDL",
-      "MIPS",
-    },
-    "Web Design" : {
-      "HTML/HTML5",
-      "CSS/CSS3",
-      "Js/JQuery",
-      "PHP", 
-      "MySQL",
-      "Ruby on Rails",
-      "JSON"
-    },
-    "Operative Systems" : {
-      "Windows",
-      "IOS",
-      "Linux",
-    },
-    "Repositories" : {
-      "Github", 
-      "Subversion" 
-    }
-    "Development Environments": {
-      "Eclipse", 
-      "DreamWeaver", 
-      "Matlab", 
-      "bash"
-    }
-  ]
 }
